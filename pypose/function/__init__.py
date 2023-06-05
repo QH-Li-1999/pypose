@@ -2,3 +2,4 @@
 from .linalg import *
 from .geometry import *
 from .checking import *
+from .spline import *
